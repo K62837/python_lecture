@@ -15,6 +15,8 @@ Q = 1.60*1e-19 #C
 T = 300 #K
 Ni = 1.45*1e10 #cm^-3
 
+print("test")
+
 
 
 def main():
